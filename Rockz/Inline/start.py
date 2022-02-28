@@ -40,7 +40,7 @@ def start_pannel():
                 )
             ],
         ]
-        return f"🎛  **ᴛʜɪs ɪs {MUSIC_BOT_NAME} ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ʀᴏᴄᴋᴇʀᴢ](@rockerz_support)**", buttons
+        return f"🎛  **ᴛʜɪs ɪs {MUSIC_BOT_NAME} ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ʀᴏᴄᴋᴇʀᴢ](@LoL_Offical_TuM_BiN)**", buttons
     if not SUPPORT_CHANNEL and SUPPORT_GROUP:
         buttons = [
             [
@@ -55,7 +55,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/ROCKERZ_SUPPORT"
+                    text="📨sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/LoL_Offical_TuM_BiN"
                 ),
             ],
         ]
@@ -74,7 +74,7 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ROCKERZ_UPDATES"
+                    text="📨ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Offical_TuM_Bin"
                 ),
             ],
         ]
@@ -93,10 +93,10 @@ def start_pannel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ROCKERZ_UPDATES"
+                    text="📨ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Offical_TuM_Bin"
                 ),
                 InlineKeyboardButton(
-                    text="📨sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/ROCKERZ_SUPPORT"
+                    text="📨sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/LoL_Offical_TuM_BiN"
                 ),
             ],
         ]
@@ -134,7 +134,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/ROCKERZ_SUPPORT"
+                    text="📨sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/LoL_Offical_TuM_BiN"
                 ),
             ],
         ]
@@ -154,7 +154,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ROCKERZ_UPDATES"
+                    text="📨ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Offical_TuM_Bin"
                 ),
             ],
         ]
@@ -174,10 +174,10 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    text="📨ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ROCKERZ_UPDATES"
+                    text="📨ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Offical_TuM_Bin"
                 ),
                 InlineKeyboardButton(
-                    text="📨sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/ROCKERZ_SUPPORT"
+                    text="📨sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/LoL_Offical_TuM_BiN"
                 ),
             ],
         ]
